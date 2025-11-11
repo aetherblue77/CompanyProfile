@@ -1,7 +1,7 @@
 # CompanyProfile
 Belajar GIT Dasar, Materi Sync
 
-```
+```javascript
 function fund() public payable {
         // want to be able to set a minimum fund amount in USD
         // 1. How do we send ETH to this contract??
